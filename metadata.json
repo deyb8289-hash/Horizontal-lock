@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Camera",
+  "description": "A modern glassmorphism camera application with horizon locking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
